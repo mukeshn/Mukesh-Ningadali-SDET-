@@ -70,12 +70,12 @@ I focus on building **scalable, maintainable automation frameworks** for UI, API
 ---
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&theme=default)
+https://github.com/mukeshn
 
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: <your-linkedin-url>
-- 📧 Email: <your-email>
+- 💼 LinkedIn: https://www.linkedin.com/in/mukesh-ningadali/
+- 📧 Email: ningadalimukesh@gmail.com
 
 ⭐ Passionate about quality engineering, automation excellence, and continuous learning
